@@ -331,7 +331,6 @@ ul {
 .cards {
   display: flex;
   flex-wrap: wrap;
-  /* max-width: 1128px; */
   row-gap: 48px;
   padding: 0;
   list-style: none;
